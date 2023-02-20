@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.top{
+	display:flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
+
+.row{
+	height:50px;
+	width:50px;
+	background:red;
+}
